@@ -1,8 +1,8 @@
 ![Header Image](https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/0e7137e0-d592-495c-a16e-7b2b2c0bfa83) 
 
 ### Hi, I'm Evan Cholette 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Evan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evan-cholette-echocodeink)]
-[![Email Badge](https://img.shields.io/badge/-e_cholette@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=e_cholette@hotmail.com)]
+![Linkedin Badge](https://img.shields.io/badge/-Evan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evan-cholette-echocodeink)
+![Email Badge](https://img.shields.io/badge/-e_cholette@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=e_cholette@hotmail.com)
 
 <!-- Add a brief introduction about yourself here -->
 
