@@ -1,4 +1,4 @@
-![Header Image](!(https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/b5350b94-a2af-460a-ad35-271e9fb228c4)) 
+![Header Image](![image](https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/0e7137e0-d592-495c-a16e-7b2b2c0bfa83)) 
 
 ### Hi, I'm Evan Cholette 👋
 [![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://your-linkedin-profile.com/)](www.linkedin.com/in/evan-cholette-echocodeink)
