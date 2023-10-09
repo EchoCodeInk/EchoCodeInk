@@ -16,9 +16,9 @@
 <!-- Add your interests and skills here -->
 
 💻 **What I Love**
-- 🚀 Take on challenges
+- 💡 Troubleshooting
 - 🖥️ Backend & 🌐 Frontend
-- [Technology 3](Link_to_Technology_3)
+- 💬 Communication
 - ...
 
 <!-- Add your badges and skill icons here -->
@@ -46,11 +46,9 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; to my projects!</h3>
 </div>
 
-<div align="center">
-<a href="https://echocodeink.github.io/portfolio/single_1.html">
- <img  width="500" align="center" src="https://user-images.githubusercontent.com/143127630/272024840-64b63253-b7eb-4397-971f-3e20ebe1108d.png" />
-<h3>C++</h3> 
-</a>
-
-<!-- Add more links to your projects following the same template -->
+<div>
+  <!--  <a href="https://echocodeink.github.io/portfolio/single_2.html">
+     <img  width="400"  align="center" src="https://user-images.githubusercontent.com/143127630/272304091-55e58306-b81a-429e-9e43-2c51a99a9716.png" />
+     <span> C++</span>  -->
+   <!-- Add more links to your projects following the same template -->
 </div>
