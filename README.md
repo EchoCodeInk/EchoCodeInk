@@ -7,13 +7,13 @@
 
 <!-- Add a brief introduction about yourself here -->
 
-- 🌐 My website: [Portfolio](https://echocodeink.github.io/portfolio/)
-- 📧 Contact me at: [your@email.com](e_cholette@hotmail.com)
+- 🌐 My website: [My Portfolio](https://echocodeink.github.io/portfolio/)
+- 📧 Contact me at: [e_cholette@hotmail.com](e_cholette@hotmail.com)
 <!-- 📄 Learn about my developer journey: [My CV](URL_to_your_CV)-->
 
 <!-- Add your interests and skills here -->
 💻 **What I Love**
-- [Technology 1](Link_to_Technology_1) <img src="https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" width="30">
+- [Technology 1](Link_to_Technology_1) <img src="https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" width="30"/>
 - [Technology 2](Link_to_Technology_2)  
 - [Technology 3](Link_to_Technology_3)
 - ...
@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-<a href="Link_to_your_project_1">
-<img align="center" src="URL_to_your_project_1_image" />
+<a href="https://echocodeink.github.io/portfolio/single_1.html">
+<img align="center" src="https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/af1b8328-0d27-445e-9ff0-6fa079ba5bae" />
 </a>
 <a href="Link_to_your_project_2">
 <img align="center" src="URL_to_your_project_2_image" />
