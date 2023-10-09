@@ -2,19 +2,19 @@
 
 ### Hi, I'm Evan Cholette 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Evan_Cholette-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https//www.linkedin.com/in/evan-cholette-echocodeink/)](https://www.linkedin.com/in/evan-cholette-echocodeink/)
-[![Email Badge](https://img.shields.io/badge/-e_cholette@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e_cholette@hotmail.com)](mailto:e_cholette@hotmail.com))
+[![Email Badge](https://img.shields.io/badge/-e_cholette@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e_cholette@hotmail.com)](mailto:e_cholette@hotmail.com)
 
 
 <!-- Add a brief introduction about yourself here -->
 
-- 🌐 My website: [Your Portfolio](https://echocodeink.github.io/portfolio/)
+- 🌐 My website: [Portfolio](https://echocodeink.github.io/portfolio/)
 - 📧 Contact me at: [your@email.com](e_cholette@hotmail.com)
 <!-- 📄 Learn about my developer journey: [My CV](URL_to_your_CV)-->
 
 <!-- Add your interests and skills here -->
 💻 **What I Love**
 - [Technology 1](Link_to_Technology_1) <img src="https://media.giphy.com/media/l4JyQqyt9S1WTiE6c/giphy.gif" width="30">
-- [Technology 2](Link_to_Technology_2)
+- [Technology 2](Link_to_Technology_2)  
 - [Technology 3](Link_to_Technology_3)
 - ...
 
