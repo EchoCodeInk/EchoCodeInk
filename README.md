@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/0e7137e0-d592-495c-a16e-7b2b2c0bfa83) 
 
-<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" height="50%"/>
+<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" height="100%"/>
 
 ### Hi, I'm Evan Cholette 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Evan_Cholette-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https//www.linkedin.com/in/evan-cholette-echocodeink/)](https://www.linkedin.com/in/evan-cholette-echocodeink/)
