@@ -18,7 +18,7 @@
 
 <h2> 👩🏽‍💻 &nbsp;A Little Bit About Me</h2>
 
-<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" height="405px"/>
+<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" />
 
 ```yaml
 name: Evan Cholette
@@ -80,16 +80,16 @@ fields_of_interests:
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; to my projects!</h3>
 </div>
+
+<!--
 <div align="center">
   <a href="https://github.com/EchoCodeInk/w17_projet_final">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoCodeInk&repo=w17_projet_final&theme=dark" />
   </a>
    <a href="https://github.com/EchoCodeInk/Memory_Game_Java-Script_Project">
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EchoCodeInk&repo=Memory_Game_Java-Script_Project&theme=dark" />
   </a>
-</div>
+</div>-->
 
 
 
