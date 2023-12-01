@@ -18,7 +18,7 @@
 
 <h2> 👩🏽‍💻 &nbsp;A Little Bit About Me</h2>
 
-<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" />
+<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" />
 
 ```yaml
 name: Evan Cholette
