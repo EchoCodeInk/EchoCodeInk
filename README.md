@@ -33,8 +33,8 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "Software Development"
     "Database",
-    "Blockchain",
     "Machine Learning",
     "Mobile App Development",
     "UI/UX",
@@ -84,6 +84,10 @@ fields_of_interests:
   <a href="https://github.com/EchoCodeInk/w17_projet_final">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoCodeInk&repo=w17_projet_final&theme=dark" />
+  </a>
+   <a href="https://github.com/EchoCodeInk/Memory_Game_Java-Script_Project">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EchoCodeInk&repo=Memory_Game_Java-Script_Project&theme=dark" />
   </a>
 </div>
 
