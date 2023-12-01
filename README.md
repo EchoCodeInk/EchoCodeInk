@@ -1,54 +1,94 @@
 ![Header Image](https://github.com/EchoCodeInk/EchoCodeInk/assets/143127630/0e7137e0-d592-495c-a16e-7b2b2c0bfa83) 
 
-<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" height="100%"/>
-
-### Hi, I'm Evan Cholette 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Evan_Cholette-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https//www.linkedin.com/in/evan-cholette-echocodeink/)](https://www.linkedin.com/in/evan-cholette-echocodeink/)
-[![Email Badge](https://img.shields.io/badge/-e_cholette@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e_cholette@hotmail.com)](mailto:e_cholette@hotmail.com)
 
 
-<!-- Add a brief introduction about yourself here -->
+<h1 align="center">Hi, I'm Evan Cholette 👋</h1>
 
-- 🌐 My website: [My Portfolio](https://echocodeink.github.io/portfolio/)
-- 📧 Contact me at: [e_cholette@hotmail.com](e_cholette@hotmail.com)
-<!-- 📄 Learn about my developer journey: [My CV](URL_to_your_CV)-->
+<p align="center">
 
-<!-- Add your interests and skills here -->
+<a href="https://www.linkedin.com/in/evan-cholette-echocodeink/">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
+</a>
 
-💻 **What I Love**
-- 💡 Troubleshooting
-- 🖥️ Backend & 🌐 Frontend
-- 💬 Communication
-- ...
+</p>
 
-<!-- Add your badges and skill icons here -->
+---
 
-🛠 **Tech Stack**
 
-<!-- Replace the URLs and technology names with your own -->
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
-![ExpressJs](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%230769AD?style=flat&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23E57373?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
+<h2> 👩🏽‍💻 &nbsp;A Little Bit About Me</h2>
 
-<!-- Add additional information, GitHub stats, or links to your projects here -->
+<img align="right" src="https://media3.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47stpu5ifhd0txvbgrvxbqhghiu0c71rvko054o6zb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="50%" height="405px"/>
+
+```yaml
+name: Evan Cholette
+located_in: Montréal,Canada
+current_job: Full Stack Developer
+
+education:
+  [
+    "Degree, Web Development",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Database",
+    "Blockchain",
+    "Machine Learning",
+    "Mobile App Development",
+    "UI/UX",
+    "AI",
+  ]
+```
+
+---
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+    <!-- Langages -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+    <!-- Frameworks et Environnements -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="apache" width="45" height="45" />   
+    <!-- Bases de données -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="45" height="45"/>
+    <!-- Outils de Gestion de Projet -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="45" height="45"/>
+    <!-- Systèmes d'exploitation -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"  alt="firefox" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  alt="google" width="45" height="45" />
+               
+</p>
+
+
+</p>
+
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; to my projects!</h3>
+  <h3 align="center">Show some &nbsp;❤️&nbsp; to my projects!</h3>
+</div>
+<div align="center">
+  <a href="https://github.com/EchoCodeInk/w17_projet_final">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EchoCodeInk&repo=w17_projet_final&theme=dark" />
+  </a>
 </div>
 
-<div>
-  <!--  <a href="https://echocodeink.github.io/portfolio/single_2.html">
-     <img  width="400"  align="center" src="https://user-images.githubusercontent.com/143127630/272304091-55e58306-b81a-429e-9e43-2c51a99a9716.png" />
-     <span> C++</span>  -->
-   <!-- Add more links to your projects following the same template -->
-</div>
+
+
+
+
+
